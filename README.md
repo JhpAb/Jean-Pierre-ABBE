@@ -1,2 +1,2 @@
-# Jean-Pierre-ABBE
+# Jean Pierre ABBE
 Portfolio Data Scientist
