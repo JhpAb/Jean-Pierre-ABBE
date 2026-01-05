@@ -10,7 +10,7 @@
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night)
 
 
-# 👋 Hi, I'm [Votre Nom]
+# 👋 Hi, I'm Jean Pierre ABBE
 
 🚀 **Data Scientist | AI Systems Architect | Tech Entrepreneur**  
 📊 Building **data-driven & AI-optimized systems** for strategic decision-making.
